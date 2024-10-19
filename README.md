@@ -1,6 +1,6 @@
 ![HPMC](https://github.com/user-attachments/assets/5ef5f50c-0ce6-4a88-9238-e81c1c205ea7)
 
-> Hybridized high-level programming languages and low-level machine code.
+> Hybrid programming-machine code.
 #
 
 Creating a hybrid programming-machine code (HPMC) system involves integrating high-level programming constructs with low-level machine code instructions, aiming for both human readability and machine-level efficiency. Such a system could blend the abstraction and convenience of high-level languages (like C or Python) with the direct hardware control of assembly language.
